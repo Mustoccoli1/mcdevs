@@ -1,0 +1,92 @@
+.active-home{
+  
+    border-bottom: 2px solid black;
+  
+  }
+  .nav-link:hover{
+  
+    border-bottom: 2px solid black;
+  
+  }
+  .nav-link{
+  
+    color: #fff !important;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 0 0 5px 0;
+    display: unset;
+    margin-left: 20px;  
+    font-family: sans-serif;
+  }
+  .links{
+  
+    margin-left: 750px;
+  
+  }
+  .nav-link{
+  
+    color: #fff !important;
+    font-size: 15px;
+    padding: 0 0 5px 0;
+    display: unset;
+    margin-left: 20px;  
+    font-family: sans-serif;
+  }
+  .links{
+  
+    margin-left: 600px;
+  
+  }
+  ul {
+    list-style-type: none;
+  }
+  .whatarewe{
+
+    color: black;
+    margin-top: 250px;
+    margin-left: 200px;
+  }
+  .weare{
+
+    margin-left: 170px;
+  }
+  body{
+    background: lightgray;
+  }
+  .expensive{
+      margin-left: 180px;
+  }
+  .expensiver{
+    margin-left: 170px;
+}  
+.contact{
+    margin-top: 250px;
+    margin-left: 200px;
+}
+.contactr{
+    margin-left: 200px;
+    font-size: 25px;
+}
+.discord{
+    margin-top: 300px;
+    margin-left: 700x;
+}
+.devsr{
+
+    margin-top: 0px;
+    margin-left: 280px;
+}
+.devs{
+    margin-top: 300px;
+    margin-left: 300px;
+    font-family: 'MinecraftiaRegular';
+}
+.coding{
+
+    margin-left: 800px;
+}
+.title{
+
+  font-family: 'MinecraftiaRegular';
+  margin-left: -1100px;
+}

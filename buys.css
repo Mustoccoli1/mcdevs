@@ -1,0 +1,139 @@
+.active-home{
+  
+    border-bottom: 2px solid black;
+  
+  }
+  .nav-link:hover{
+  
+    border-bottom: 2px solid black;
+  
+  }
+  .nav-link{
+  
+    color: #fff !important;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 0 0 5px 0;
+    display: unset;
+    margin-left: 20px;  
+    font-family: sans-serif;
+  }
+  .links{
+  
+    margin-left: 750px;
+  
+  }
+  .nav-link{
+  
+    color: #fff !important;
+    font-size: 15px;
+    padding: 0 0 5px 0;
+    display: unset;
+    margin-left: 20px;  
+    font-family: sans-serif;
+  }
+  .links{
+  
+    margin-left: 600px;
+  
+  }
+  ul {
+    list-style-type: none;
+  }
+  .whatarewe{
+
+    color: black;
+    margin-top: 0px !important;
+    margin-left: 100px !important;
+  }
+  .weare{
+
+    margin-left: 170px;
+  }
+  body{
+    background: lightgray;
+  }
+.Plans{
+
+    margin-top: 100px !important;
+    margin-left: 500px;
+    font-family: 'MinecraftiaRegular';
+  }
+  .expensive{
+      margin-left: 180px;
+  }
+  .expensiver{
+    margin-left: 170px;
+}  
+.title{
+
+  font-family: 'MinecraftiaRegular';
+  margin-left: -1100px;
+}
+.basici{
+
+  margin-top: 100px;
+  margin-left: 200px; 
+}
+.basic{
+
+  margin-left: 100px;
+  margin-top: 100px;
+  font-family: 'MinecraftiaRegular';
+  font-size: 35px; 
+}
+.basicr{
+
+  margin-left: 100px;
+}
+.standard{
+
+  margin-left: 300px;
+  margin-top: -125px;
+  font-family: 'MinecraftiaRegular';
+  font-size: 35px;
+}
+.standardr{
+
+  margin-left: 300px;
+}
+.premium{
+
+  margin-top: -155px;
+  margin-left: 600px;
+  font-family: 'MinecraftiaRegular';
+  font-size: 35px;
+}
+.premiumr{
+
+  margin-left: 600px;
+}
+.custom{
+
+  margin-top: -190px;
+  font-family: 'MinecraftiaRegular';
+  font-size: 35px;
+  margin-left: 950px;
+}
+.customr{
+
+  margin-left: 950px;
+}
+.tobuy{
+
+  margin-top: 200px;
+  margin-left: 275px;
+}
+.discordlink{
+
+  margin-left: 625px;
+  font-size: 25px;
+  position: absolute;
+  color: black;
+  font-family: 'MinecraftiaRegular';
+}
+.discordlink:hover{
+
+  text-decoration: none;
+  color: gray;
+}
